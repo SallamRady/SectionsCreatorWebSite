@@ -1,0 +1,30 @@
+.mainContainer{
+  height: 900px;
+}
+/**/
+.nav-item{
+  font-size: 18px;
+  font-weight: bold;
+ 
+}
+
+/****/
+.SectionClass{
+  border: 2px solid;
+  border-radius: 18px;
+}
+.SectionClass > h3{
+  border-bottom: 1px solid #fff;
+  padding-bottom: 10px;
+}
+
+.gellaryPlace > h3{
+  border-bottom: 2px solid aliceblue;
+  padding-bottom: 10px; 
+}
+
+.footer{
+  min-height: 50px;
+  font-size: 20px;
+  font-weight: bold;
+  }

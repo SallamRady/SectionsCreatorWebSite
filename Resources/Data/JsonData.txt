@@ -1,0 +1,7 @@
+{
+  "Sections":[
+  	{ "Section":  {"id": 1, "header": "Home", "content": "'Begin today!' That's all the note said. There was no indication from where it came or who may have written it. Had it been meant for someone else? Meghan looked around the room, but nobody made eye contact back. For a brief moment, she thought it might be a message for her to follow her dreams, but ultimately decided it was easier to ignore it as she crumpled it up and threw it away."} },
+  	{ "Section":  {"id": 2, "header": "About", "content": "'Begin today!' That's all the note said. There was no indication from where it came or who may have written it. Had it been meant for someone else? Meghan looked around the room, but nobody made eye contact back. For a brief moment, she thought it might be a message for her to follow her dreams, but ultimately decided it was easier to ignore it as she crumpled it up and threw it away."} },
+  	{ "Section":  {"id": 3, "header": "Gallery", "content": ["Resources/Images/car1.webp","Resources/Images/car2.jpg","Resources/Images/car3.jpeg","Resources/Images/car4.jpeg","Resources/Images/car5.jpg","Resources/Images/car6.jpg"]} }
+  ]
+}
